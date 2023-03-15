@@ -32,6 +32,10 @@ réaliser les prémices de cette application de démo
 
 Je me suis orienté vers une application qui utilise custom vision d'Azure "https://www.customvision.ai/" en me basant sur le SDK de classification d'image de custom vision https://learn.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python
 
+## Documentations du projet
+
+Voir les documents `BRIEF 2B - Démarche projet` et `BRIEF 2B - Conception technique` pour le détail de la conception du projet
+
 
 ## Sur VS Code
 
