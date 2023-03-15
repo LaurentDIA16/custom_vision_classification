@@ -27,6 +27,10 @@ réaliser les prémices de cette application de démo
         - Votre démarche projet : labos, choix effectués, principes retenus pour le monitoring
         - La conception technique envisagée : architecture, maquettes et/ou graphe de dialogue, process ML embarqué, …
         - Démos dès que possible : labos, nouveaux datasets, prémices de l’application …etc..
+        
+## Réalisation du projet
+
+Je me suis orienté vers une application qui utilise custom vision d'Azure "https://www.customvision.ai/" en me basant sur le SDK de classification d'image de custom vision https://learn.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python
 
 
 ## Sur VS Code
