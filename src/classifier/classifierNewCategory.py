@@ -5,11 +5,11 @@ from msrest.authentication import ApiKeyCredentials
 import os, time
 
 #load the keys and endpoints from the configuration file
-training_endpoint='https://westeurope.api.cognitive.microsoft.com/'
-training_key='ea64d9ef43e245d6bd6d719b6420e798'
-prediction_endpoint='https://westeurope.api.cognitive.microsoft.com/'
-prediction_key='ea64d9ef43e245d6bd6d719b6420e798'
-prediction_resource_id='/subscriptions/b5e3ab84-dbf9-4e8a-81d2-91337105a5e5/resourceGroups/GR16laurent/providers/Microsoft.CognitiveServices/accounts/Classifier'
+training_endpoint=''
+training_key=''
+prediction_endpoint=''
+prediction_key=''
+prediction_resource_id=''
 
 #Authenticate the client
 credentials = ApiKeyCredentials(in_headers={"Training-key": training_key})
