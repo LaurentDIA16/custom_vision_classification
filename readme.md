@@ -51,8 +51,6 @@ réaliser les prémices de cette application de démo
 - Installer les différents packages (Django, ...) :
 
   `pip install -r requirements.txt`
-
-  `pip install psycopg2-binary` (pour lien avec PostgreSql)
   
   `pip install azure-cognitiveservices-vision-customvision` (Azure custom vision)
   
